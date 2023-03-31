@@ -1,5 +1,5 @@
 # vueProjects
 #Repo for vue projects
-#Thanks to Random user api genration https://randomuser.me/api
+#Thanks to Random user api genration 
 Random user genration poject developed on Vue.js
 
