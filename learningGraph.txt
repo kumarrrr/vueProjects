@@ -1,0 +1,29 @@
+Basics :
+
+******************
+const app = Vue.createApp({
+    data(){
+        return {
+            key:value,
+            firstName: Value,
+        }
+    }
+})
+========================================
+
+******************
+where to mount 
+app.mount("#id")
+========================================
+
+******************
+binding by v-bind or :propname such as :alt ="firstName" or :class
+==================
+
+******************
+Event addtion:-suppose a button
+<button v-on:click ="getUser()"></button>
+get user is method
+all methods to be defined in the method:{ getUser(){...}} after data(){}
+==================
+
